@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/recycleConnect/static/css/main.8bd6d386.css",
-    "main.js": "/recycleConnect/static/js/main.2a11c645.js",
-    "static/js/592.2d3bbd89.chunk.js": "/recycleConnect/static/js/592.2d3bbd89.chunk.js",
-    "index.html": "/recycleConnect/index.html",
-    "main.8bd6d386.css.map": "/recycleConnect/static/css/main.8bd6d386.css.map",
-    "main.2a11c645.js.map": "/recycleConnect/static/js/main.2a11c645.js.map",
-    "592.2d3bbd89.chunk.js.map": "/recycleConnect/static/js/592.2d3bbd89.chunk.js.map"
+    "main.css": "/recycleConnectone/static/css/main.8bd6d386.css",
+    "main.js": "/recycleConnectone/static/js/main.d8f3c8ad.js",
+    "static/js/592.2d3bbd89.chunk.js": "/recycleConnectone/static/js/592.2d3bbd89.chunk.js",
+    "index.html": "/recycleConnectone/index.html",
+    "main.8bd6d386.css.map": "/recycleConnectone/static/css/main.8bd6d386.css.map",
+    "main.d8f3c8ad.js.map": "/recycleConnectone/static/js/main.d8f3c8ad.js.map",
+    "592.2d3bbd89.chunk.js.map": "/recycleConnectone/static/js/592.2d3bbd89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8bd6d386.css",
-    "static/js/main.2a11c645.js"
+    "static/js/main.d8f3c8ad.js"
   ]
 }
